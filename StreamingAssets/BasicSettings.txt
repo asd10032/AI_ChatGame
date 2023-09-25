@@ -1,0 +1,10 @@
+UserName:User
+AIName:AI
+WordWaitTime:0.05
+Prompt:你是一個智能客服AI
+Language:"中文"
+HistoryKeepCount=15
+Api_key=123
+GptModel=gpt-3.5-turbo
+Url=https://api.openai.com/v1/chat/completions
+StartPanel=1
